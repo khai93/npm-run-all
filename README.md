@@ -68,11 +68,11 @@ Welcome♡
 
 Please use GitHub Issues.
 
-### Correct Documents
+### Correcting Documents
 
 Please use GitHub Pull Requests.
 
-I'm not familiar with English, so I especially thank you for documents' corrections.
+I'm not familiar with English, so I especially thank you for document's corrections.
 
 ### Implementing
 
